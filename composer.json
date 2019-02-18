@@ -30,6 +30,9 @@
         "symfony/var-dumper": "^3.4 || ^4.0",
         "symfony/twig-bundle": "^3.4 || ^4.0"
     },
+    "suggest": {
+        "dunglas/angular-csrf-bundle": "Should be used once it adds support for Symfony 4.2"
+    },
     "autoload": {
         "psr-4": {
             "Dunglas\\AngularCsrfBundle\\": ""

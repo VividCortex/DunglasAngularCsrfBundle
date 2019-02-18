@@ -1,3 +1,5 @@
+
+
 # JavaScript CSRF Protection Bundle
 
 This [API Platform](http://api-platform.com) and [Symfony](http://symfony.com) bundle provides automatic
@@ -12,6 +14,10 @@ Actually, any JavaScript code issuing [XMLHttpRequest](https://developer.mozilla
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/4a1e438f-038e-4cd7-ab6e-8849c4586a08/mini.png)](https://insight.sensiolabs.com/projects/4a1e438f-038e-4cd7-ab6e-8849c4586a08)
 [![Dependency Status](https://www.versioneye.com/user/projects/5583d39036386100150002dd/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5583d39036386100150002dd)
 [![StyleCI](https://styleci.io/repos/15552938/shield?branch=master)](https://styleci.io/repos/15552938)
+
+# Note 
+
+:warning: This fork provides Support for Symfony 4.2 it shouldn't be used once [this PR](https://github.com/dunglas/DunglasAngularCsrfBundle/pull/58) is merged.
 
 ## How it Works
 
